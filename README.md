@@ -1,5 +1,9 @@
 # vue3-slide
 
+<h1 align="center">
+    <img alt="slide" title="#slide" src="./public/banner.PNG" />
+</h1>
+
 Slide feito no React refatorado para o Vue 3 para treinar os conhecimentos aprendidos.
 Toda a reatividade foi reescrita para que o código feito em React funcionasse no Vue3.
 
